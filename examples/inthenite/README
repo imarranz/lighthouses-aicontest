@@ -1,0 +1,17 @@
+Nombre: inthenite 
+Autor: inthenite
+Grupo: #underclocking
+Puesto: AP-15
+Licencia: Dominio Público
+
+Robot que intenta jugar bien.
+Tiene definidos los estados: recolectar_energía_inicial, recolectar_energia, ir_a_faro_libre, recargar_faro, atacar_faro, estoy_en_faro
+Y cuando va a un faro puede ir a uno "libre", "mio" o "ajeno", teniendo en cuenta que puede ser el más "cercano" o el "menos_energico"
+
+
+Requisitos:
+	Python v2.6.x o v2.7.x
+		# apt-get install python2.7
+
+Uso:
+$ python2.7 inthenite/inthenite.py

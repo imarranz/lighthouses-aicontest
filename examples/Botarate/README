@@ -1,0 +1,17 @@
+Nombre: Botarate 1.0
+Autor: patriiiii patriiiii@gmail.com
+Puesto: AC77
+Licencia: Dominio Público
+
+Utilizando la base de marcan.
+
+Requisitos:
+	Python v2.6.x o v2.7.x
+		# apt-get install python2.7
+	Numpy 
+		# apt-get install python-numpy
+	scypy
+		# apt-get install python-scipy
+
+Uso:
+$ python2.7 Botarate/botarate.py
