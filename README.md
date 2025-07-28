@@ -1,7 +1,7 @@
 
-# Euskal Encounter 34 - AI Contest Bot (2026)
+# AI Contest Bot | Euskal Encounter
 
-> :sparkles: Participación en el AI Contest de la Euskal Encounter 34 con un bot inteligente y competitivo.  
+> :sparkles: Preparando mi participación en el AI Contest de la próxima Euskal Encounter con un bot inteligente y competitivo.
 > ¡Una mezcla perfecta de estrategia, programación y diversión!
 
 ---
@@ -10,7 +10,7 @@
 
 El **AI Contest** de la [Euskal Encounter](https://www.euskalencounter.org) es un reto anual de programación donde desarrolladores crean bots autónomos para competir en un juego por turnos. Este evento reúne a entusiastas del software libre, la inteligencia artificial y los videojuegos en un ambiente creativo y altamente técnico.
 
-En la próxima edición (EE34 - 2026), el reto girará en torno al juego **Laser Lighthouses**, un entorno de combate estratégico con información parcial. Los bots deben navegar por el mapa, capturar faros, evitar peligros y derrotar a su oponente, todo bajo condiciones de tiempo limitado y visión parcial del entorno.
+En la próxima edición el reto girará en torno al juego **Laser Lighthouses**, un entorno de combate estratégico con información parcial. Los bots deben navegar por el mapa, capturar faros, evitar peligros y derrotar a su oponente, todo bajo condiciones de tiempo limitado y visión parcial del entorno.
 
 Este proyecto tiene como objetivo desarrollar un bot competitivo, utilizando técnicas de programación, IA y estrategias adaptativas, y compartir el código como ejemplo didáctico y base para futuras mejoras.
 
@@ -21,7 +21,7 @@ Este proyecto tiene como objetivo desarrollar un bot competitivo, utilizando té
 - Juego por turnos con **información parcial del entorno**.
 - Controlas una unidad que puede moverse, disparar o interactuar con el mundo.
 - Objetivo: **capturar faros** y maximizar la puntuación.
-- Dos bots se enfrentan en un mapa común. El mejor bot gana.
+- Dos o más bots se enfrentan en un mapa común. El mejor bot gana.
 
 Más detalles y reglas en el repositorio oficial del juego: [https://github.com/marcan/lighthouses_aicontest](https://github.com/marcan/lighthouses_aicontest)
 
@@ -60,8 +60,8 @@ Más detalles y reglas en el repositorio oficial del juego: [https://github.com/
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/imarranz/ee34_aicontest_bot.git
-cd ee34_aicontest_bot
+git clone https://github.com/imarranz/lighthouses-aicontest.git
+cd lighthouses-aicontest
 ````
 
 2. Instala las dependencias:
@@ -91,23 +91,24 @@ pip install -r requirements.txt
 
 ## :bust\_in\_silhouette: Autor
 
-Desarrollado por \[Tu nombre o nick].
+Desarrollado por imarranz.
 Licencia: MIT
 
 ---
 
-## :trophy: ¿Por qué participar?
+## :trophy: ¿Por qué me gustaría participar?
 
-* :nerd\_face: Aprendes técnicas reales de IA aplicadas a entornos dinámicos.
-* :keyboard: Practicas escritura de bots y lógica de juego en tiempo real.
-* :handshake: Participas en una comunidad abierta y creativa.
-* :fire: ¡Y es realmente divertido!
-
----
-
-> :sparkles: ¡Nos vemos en la Euskal Encounter 34! Que gane el bot más listo. :robot:
+* :nerd_face: Para aprender técnicas reales de IA aplicadas a entornos dinámicos.
+* :keyboard: Para practicar escritura de bots y lógica de juego en tiempo real.
+* :handshake: Para participar en una comunidad abierta y creativa.
+* :fire: ¡Y para divertirme!
 
 ---
 
+> :sparkles: ¡Nos vemos en la Euskal Encounter! Que gane el bot más listo. :robot:
 
-https://github.com/ilopezgazpio/LightHouses_AIContest
+---
+
+## Otros proyectos
+
+  - [https://github.com/ilopezgazpio/LightHouses_AIContest](https://github.com/ilopezgazpio/LightHouses_AIContest)
