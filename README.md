@@ -4,7 +4,14 @@
 > :sparkles: Preparando mi participación en el AI Contest de la próxima Euskal Encounter con un bot inteligente y competitivo.
 > ¡Una mezcla perfecta de estrategia, programación y diversión!
 
----
+![Author](https://img.shields.io/badge/author-imarranz-blue?style=flat-square)
+![Author](https://img.shields.io/badge/author-imarranz-blue)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![Language](https://img.shields.io/badge/python-3.10+-yellow?style=flat-square)
+![Status](https://img.shields.io/badge/status-en%20desarrollo-orange?style=flat-square)
+![AI Contest](https://img.shields.io/badge/AI%20Contest-Euskal%20Encounter%202026-purple?style=flat-square)
+![Stars](https://img.shields.io/github/stars/imarranz/lighthouses-aicontest?style=flat-square)
+![Forks](https://img.shields.io/github/forks/imarranz/lighthouses-aicontest?style=flat-square)
 
 ## :rocket: Introducción
 
@@ -13,8 +20,6 @@ El **AI Contest** de la [Euskal Encounter](https://www.euskalencounter.org) es u
 En la próxima edición el reto girará en torno al juego **Laser Lighthouses**, un entorno de combate estratégico con información parcial. Los bots deben navegar por el mapa, capturar faros, evitar peligros y derrotar a su oponente, todo bajo condiciones de tiempo limitado y visión parcial del entorno.
 
 Este proyecto tiene como objetivo desarrollar un bot competitivo, utilizando técnicas de programación, IA y estrategias adaptativas, y compartir el código como ejemplo didáctico y base para futuras mejoras.
-
----
 
 ## :video_game: ¿De qué va el juego?
 
@@ -25,8 +30,6 @@ Este proyecto tiene como objetivo desarrollar un bot competitivo, utilizando té
 
 Más detalles y reglas en el repositorio oficial del juego: [https://github.com/marcan/lighthouses_aicontest](https://github.com/marcan/lighthouses_aicontest)
 
----
-
 ## :hammer_and_wrench: Tecnologías
 
 - :snake: Python 3.10+ (bot principal)
@@ -34,12 +37,9 @@ Más detalles y reglas en el repositorio oficial del juego: [https://github.com/
 - :bookmark_tabs: Comunicación estándar por `stdin`/`stdout`
 - :rocket: Opcional: uso de heurísticas, planificación, búsqueda o aprendizaje por refuerzo
 
----
-
 ## :file_folder: Estructura del repositorio
 
 ```
-
 .
 ├── bot/                # Código fuente del bot
 │ └── mybot.py          # Implementación principal
@@ -52,8 +52,6 @@ Más detalles y reglas en el repositorio oficial del juego: [https://github.com/
 └── README.md           # Este documento
 
 ````
-
----
 
 ## :zap: Cómo ejecutar
 
@@ -76,25 +74,15 @@ pip install -r requirements.txt
 ./run_iacontest.sh
 ```
 
-:warning: *Necesitas tener el motor de juego oficial descargado aparte y disponible en el PATH o configurado en `run.sh`.*
-
----
+:warning: *Necesitas tener el motor de juego oficial descargado aparte y disponible en el PATH o configurado en `run_iacontest.sh`.*
 
 ## :brain: Estrategia del bot
   
-* **Fase inicial**: bot reactivo con lógica heurística.
-* **Fase intermedia**: incorporación de mapas internos, planificación y predicción de oponentes.
-* **Fase avanzada**: experimentación con técnicas de IA (Monte Carlo, Q-learning...).
+* :gear: **Fase inicial**: bot reactivo con lógica heurística.
+* :brain: **Fase intermedia**: incorporación de mapas internos, planificación y predicción de oponentes.
+* :robot: **Fase avanzada**: experimentación con técnicas de IA (Monte Carlo, Q-learning...).
 * :dart: **Objetivo final**: desarrollar un bot robusto y difícil de vencer.
 
----
-
-## :bust\_in\_silhouette: Autor
-
-Desarrollado por imarranz.
-Licencia: MIT
-
----
 
 ## :trophy: ¿Por qué me gustaría participar?
 
@@ -103,11 +91,7 @@ Licencia: MIT
 * :handshake: Para participar en una comunidad abierta y creativa.
 * :fire: ¡Y para divertirme!
 
----
-
 > :sparkles: ¡Nos vemos en la Euskal Encounter! Que gane el bot más listo. :robot:
-
----
 
 ## Otros proyectos
 
