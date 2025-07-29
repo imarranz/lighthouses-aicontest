@@ -4,14 +4,16 @@
 > :sparkles: Preparando mi participación en el AI Contest de la próxima Euskal Encounter con un bot inteligente y competitivo.
 > ¡Una mezcla perfecta de estrategia, programación y diversión!
 
+![](https://repository-images.githubusercontent.com/1026837935/ca818406-a88f-46fd-89dd-d644e7f47b5e)
+
 ![Author](https://img.shields.io/badge/author-imarranz-blue?style=flat-square)
-![Author](https://img.shields.io/badge/author-imarranz-blue)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-![Language](https://img.shields.io/badge/python-3.10+-yellow?style=flat-square)
+![Language](https://img.shields.io/badge/python-3.9+-yellow?style=flat-square)
 ![Status](https://img.shields.io/badge/status-en%20desarrollo-orange?style=flat-square)
 ![AI Contest](https://img.shields.io/badge/AI%20Contest-Euskal%20Encounter%202026-purple?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/imarranz/lighthouses-aicontest?style=flat-square)
 ![Forks](https://img.shields.io/github/forks/imarranz/lighthouses-aicontest?style=flat-square)
+![Pull Request](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square)
 
 ## :rocket: Introducción
 
@@ -32,7 +34,7 @@ Más detalles y reglas en el repositorio oficial del juego: [https://github.com/
 
 ## :hammer_and_wrench: Tecnologías
 
-- :snake: Python 3.10+ (bot principal)
+- :snake: Python 3.9+ (bot principal)
 - :computer: Motor de juego C++ (externo)
 - :bookmark_tabs: Comunicación estándar por `stdin`/`stdout`
 - :rocket: Opcional: uso de heurísticas, planificación, búsqueda o aprendizaje por refuerzo
